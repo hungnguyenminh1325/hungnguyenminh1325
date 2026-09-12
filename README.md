@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi git 👋
 
 <!--
 **hungnguyenminh1325/hungnguyenminh1325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
